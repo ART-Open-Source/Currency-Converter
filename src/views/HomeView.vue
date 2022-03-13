@@ -142,7 +142,7 @@ export default {
   },
   methods:{
     fetchData(){
-      const KEY = "67ac14509c965be27491e942"
+      const KEY = "Your Api Key"
       fetch(`https://v6.exchangerate-api.com/v6/${KEY}/latest/${this.currency_one}`)
       .then(response => response.json())
       .then(data => {
