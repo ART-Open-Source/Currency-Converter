@@ -1,8 +1,8 @@
-# hello
+# Currency Converter
 
-## Project setup
+## Set up vue 
 ```
-npm install
+vue create [ project's name ] 
 ```
 
 ### Compiles and hot-reloads for development
@@ -20,9 +20,9 @@ npm run build
 npm run test:unit
 ```
 
-### Lints and fixes files
+### Get Your own API key : 
 ```
-npm run lint
+https://app.exchangerate-api.com/
 ```
 
 ### Customize configuration
