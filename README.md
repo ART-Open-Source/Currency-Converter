@@ -24,6 +24,11 @@ npm run test:unit
 ```
 https://app.exchangerate-api.com/
 ```
+### For example :
+
+```
+https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/USD
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
